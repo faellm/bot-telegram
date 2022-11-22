@@ -1,1 +1,11 @@
-/__pycache__
+Projeto simples - iniciante - bot de envio de mensagem na rede social telegram
+
+Este projeto é um projeto iniciante, para estudo de api e automação.
+
+Funções que seram executadas pelo Bot:
+  - Envio em massa para grupos no telegram,
+  - terminal de comando, aonde é escrita a mensagem a ser mandada.
+  
+ Ideias para version 2:
+ 
+ Utilizar uma pagina web, para ficar mais agradavel a utilização. Ou até mesmo uma formar de mandar a mensagem no chat do bot e ele reenviar.
