@@ -1,5 +1,7 @@
-token = '5641112414:AAFEWgLvhz9k9ceyIrgb185hR7wbYm_VNQQ'
-chat_id1 = '-739560841'
-chat_id2 = '-1001898479965'
+token = '' #colocar o seu token da api, fornecida pelo BotFather
+chat_id1 = '' #colocar id do grupo 1
+chat_id2 = '' #colocar id do grupo 2 
 
-my_chat = '5219044660'
+#caso necessario mais grupos so seguir o parametro { variavel = 'id' }
+
+my_chat = '' # colocar id do seu chat no telegram, para receber a mensagem.
