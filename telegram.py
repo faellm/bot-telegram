@@ -1,11 +1,12 @@
 import telebot
 from dados import *
+from front import *
 
 
 
 bot = telebot.TeleBot(token)
 
-texto = input('Qual mensagem devo enviar? ')
+texto = layout['Texto de envio:']
 
 
 
